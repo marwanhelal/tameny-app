@@ -1,0 +1,122 @@
+[
+  {
+    "name": "El Ezaby Pharmacy",
+    "address": "12 Talaat Harb St, Downtown, Cairo",
+    "city": "Cairo",
+    "logo": "assets/pharmacies/elezaby.png"
+  },
+  {
+    "name": "Roshdy Pharmacy",
+    "address": "5 Mostafa Mahmoud St, Mohandessin, Giza",
+    "city": "Giza",
+    "logo": "assets/pharmacies/roshdy.png"
+  },
+  {
+    "name": "Seif Pharmacy",
+    "address": "90th St, 5th Settlement, New Cairo",
+    "city": "Cairo",
+    "logo": "assets/pharmacies/seif.png"
+  },
+  {
+    "name": "Misr Pharmacy",
+    "address": "26th July St, Zamalek, Cairo",
+    "city": "Cairo",
+    "logo": "assets/pharmacies/misr.png"
+  },
+  {
+    "name": "El Dawaa Pharmacy",
+    "address": "El Merghany St, Heliopolis, Cairo",
+    "city": "Cairo",
+    "logo": "assets/pharmacies/eldawaa.png"
+  },
+  {
+    "name": "United Pharmacy",
+    "address": "Corniche El Nil, Aswan",
+    "city": "Aswan",
+    "logo": "assets/pharmacies/united.png"
+  },
+  {
+    "name": "El Mokhtabar Pharmacy",
+    "address": "Tanta University Street, Tanta",
+    "city": "Gharbia",
+    "logo": "assets/pharmacies/mokhtabar.png"
+  },
+  {
+    "name": "Dr. Hagar Pharmacy",
+    "address": "Mansoura Downtown, Mansoura",
+    "city": "Dakahlia",
+    "logo": "assets/pharmacies/hagar.png"
+  },
+  {
+    "name": "Al Shifa Pharmacy",
+    "address": "Port Said Road, Ismailia",
+    "city": "Ismailia",
+    "logo": "assets/pharmacies/alshifa.png"
+  },
+  {
+    "name": "Dr. Nour Pharmacy",
+    "address": "Hurghada Marina Blvd, Hurghada",
+    "city": "Red Sea",
+    "logo": "assets/pharmacies/nour.png"
+  },
+  {
+    "name": "El Hekma Pharmacy",
+    "address": "Alexandria Corniche, Alexandria",
+    "city": "Alexandria",
+    "logo": "assets/pharmacies/elhekma.png"
+  },
+  {
+    "name": "Family Pharmacy",
+    "address": "6 October City, El Motamayez District",
+    "city": "Giza",
+    "logo": "assets/pharmacies/family.png"
+  },
+  {
+    "name": "Dr. Ahmed Pharmacy",
+    "address": "Assiut University, Assiut",
+    "city": "Assiut",
+    "logo": "assets/pharmacies/drahmed.png"
+  },
+  {
+    "name": "Delta Pharmacy",
+    "address": "Delta Mall, Tanta",
+    "city": "Gharbia",
+    "logo": "assets/pharmacies/delta.png"
+  },
+  {
+    "name": "MediCare Pharmacy",
+    "address": "Nile St, Luxor",
+    "city": "Luxor",
+    "logo": "assets/pharmacies/medicare.png"
+  },
+  {
+    "name": "Dr. Sherif Pharmacy",
+    "address": "New Damietta, Damietta",
+    "city": "Damietta",
+    "logo": "assets/pharmacies/sherif.png"
+  },
+  {
+    "name": "Horus Pharmacy",
+    "address": "El Mahalla El Kubra, Gharbia",
+    "city": "Gharbia",
+    "logo": "assets/pharmacies/horus.png"
+  },
+  {
+    "name": "Al Amal Pharmacy",
+    "address": "New Valley Road, El Kharga",
+    "city": "New Valley",
+    "logo": "assets/pharmacies/alamal.png"
+  },
+  {
+    "name": "Dr. Mohamed Pharmacy",
+    "address": "Banha Ring Road, Qalyubia",
+    "city": "Qalyubia",
+    "logo": "assets/pharmacies/mohamed.png"
+  },
+  {
+    "name": "Zahran Pharmacy",
+    "address": "10th of Ramadan City, El Sharkia",
+    "city": "Sharqia",
+    "logo": "assets/pharmacies/zahran.png"
+  }
+]
